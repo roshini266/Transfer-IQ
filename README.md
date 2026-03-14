@@ -30,4 +30,4 @@ Note: **Encoder–Decoder LSTM will be implemented in Week 6** for multi-season 
 
 ## Run Dashboard
 
-streamlit run transferiq_dashboard.py
+python -m streamlit run transferiq_dashboard.py
